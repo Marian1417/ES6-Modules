@@ -37,3 +37,20 @@
 ### Exporting and Importing a Default Value
 
 - Sometimes, you may want to export a single value as the default export from a module. To do this, you can use the export default syntax.
+
+### Exercise 1
+
+1. Create a new file called greeting.js in your project directory.
+2. Create a new function called greet that accepts a name parameter and prints it to the screen
+3. Export the greet function from the greeting.js and import it in the main.js
+4. Inside the main.js file, use the greet function and pass in the argument "world"
+
+### Exercise 2
+
+1. Create a new file called math.js in your project directory.
+2. Create two functions inside called add and subtract
+   (x, y)
+3. Import both add and subtract from math.js using the import statement
+4. Create a new function called multiply in math.js
+5. Import the multiply function from math.js
+6. Call all three functions with appropriate arguments and log the results to the console
